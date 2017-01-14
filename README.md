@@ -4,6 +4,6 @@
 
 Patrick Porche - Web Developer 
 
-./node_module/webpack-dev-server/bin/webpack-dev-server.js
+<code>./node_module/webpack-dev-server/bin/webpack-dev-server.js</code>
 
 *changed PORT and IP for Cloud9 IDE
