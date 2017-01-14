@@ -29,6 +29,7 @@
     "babel": "^6.5.2",
     "babel-core": "^6.21.0",
     "babel-preset-stage-1": "^6.16.0",
+    "es6-promise": "^4.0.5",
     "express": "^4.14.0",
     "lodash": "^3.10.1",
     "react": "^0.14.8",
